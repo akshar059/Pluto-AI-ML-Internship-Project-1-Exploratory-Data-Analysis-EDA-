@@ -1,4 +1,4 @@
-# Pluto-AI-ML-Internship-Project-1-Exploratory-Data-Analysis-EDA-
+# Pluto-AI-ML-Internship-Project-1-Exploratory-Data-Analysis-EDA
 
 📌 Project Overview
 
