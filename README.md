@@ -8,6 +8,7 @@ The analysis follows the complete data analysis workflow, beginning with data lo
 
 This project was developed as part of the Pluto Academy AI & Machine Learning Internship.
 
+
 🎯 Objectives
 
 The primary objectives of this project are to:
@@ -20,6 +21,7 @@ Explore relationships between different variables.
 Visualize important trends using interactive charts.
 Extract meaningful business insights.
 Provide data-driven recommendations based on the analysis.
+
 
 📂 Dataset Information
 
@@ -46,6 +48,7 @@ Duration
 Genre (Listed In)
 Description
 
+
 🛠️ Technologies Used
 
 Python
@@ -61,6 +64,7 @@ Plotly
 Matplotlib
 
 Seaborn
+
 
 📋 Project Workflow
 
@@ -91,6 +95,7 @@ Creating new features for month and year
 Cleaning country and director information
 
 The cleaned dataset was then used for further analysis.
+
 
 📊 Exploratory Data Analysis
 
@@ -137,6 +142,7 @@ Examines seasonal publishing trends by analyzing monthly additions to Netflix.
 9. Country vs Rating Heatmap
 Explores the relationship between content ratings and major producing countries through a heatmap.
 
+
 📈 Visualizations
 
 The project includes several interactive visualizations created using Plotly.
@@ -151,6 +157,7 @@ Stacked Bar Charts
 Heatmaps
 Each visualization includes proper titles, axis labels, legends, and interpretations.
 
+
 🔍 Key Insights
 
 Some important observations obtained from the analysis include:
@@ -164,6 +171,7 @@ TV-MA is the most common content rating on the platform.
 A small number of directors account for a significant portion of available titles.
 Netflix consistently releases content throughout the year with relatively balanced monthly additions.
 
+
 💡 Business Recommendations
 
 Based on the findings, the following recommendations can be made:
@@ -175,6 +183,7 @@ Strengthen partnerships with highly productive directors and creators.
 Continue maintaining a balanced content release schedule throughout the year.
 Invest further in international productions to diversify Netflix's catalog.
 
+
 ▶️ How to Run
 
 Clone this repository.
@@ -182,6 +191,7 @@ Install the required Python libraries.
 Open the notebook using Google Colab or Jupyter Notebook.
 Ensure the dataset file is located in the project directory.
 Execute all notebook cells sequentially.
+
 
 📚 Python Libraries
 pandas
@@ -195,6 +205,7 @@ Install them using:
 pip install pandas numpy matplotlib seaborn plotly
 
 
+
 📌 Future Improvements
 
 Potential enhancements include:
@@ -206,20 +217,24 @@ Machine Learning-based popularity prediction.
 Time-series forecasting for future content additions.
 Geographic visualization of global content distribution.
 
+
 🎓 Internship Information
 
 Internship Program: AI & Machine Learning Internship
 Organization: Pluto Academy
 Project: Project 1 – Exploratory Data Analysis (EDA)
 
+
 👨‍💻 Author
 
 Name: Akshar Patel
 Program: B.Tech Information Technology (Honors in Cybersecurity)
 
+
 📜 License
 
 This project is developed solely for educational and internship purposes as part of the Pluto Academy AI & Machine Learning Internship.
+
 
 ⭐ Acknowledgements
 
