@@ -49,11 +49,17 @@ Description
 🛠️ Technologies Used
 
 Python
+
 Google Colab
+
 Pandas
+
 NumPy
+
 Plotly
+
 Matplotlib
+
 Seaborn
 
 📋 Project Workflow
