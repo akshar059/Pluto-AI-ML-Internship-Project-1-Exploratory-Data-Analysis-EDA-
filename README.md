@@ -35,35 +35,29 @@ Dataset Description
 The dataset contains metadata for thousands of Netflix titles, including movies and television shows available on the platform.
 
 Important attributes include:
-Show ID
-Type (Movie / TV Show)
-Title
-Director
-Cast
-Country
-Date Added
-Release Year
-Rating
-Duration
-Genre (Listed In)
-Description
+- Show ID
+- Type (Movie / TV Show)
+- Title
+- Director
+- Cast
+- Country
+- Date Added
+- Release Year
+- Rating
+- Duration
+- Genre (Listed In)
+- Description
 
 
 🛠️ Technologies Used
 
-Python
-
-Google Colab
-
-Pandas
-
-NumPy
-
-Plotly
-
-Matplotlib
-
-Seaborn
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Plotly
+- Matplotlib
+- Seaborn
 
 
 📋 Project Workflow
@@ -126,11 +120,11 @@ France
 
 6. Content Rating Distribution
 Analyzes ratings such as:
-TV-MA
-TV-14
-TV-PG
-PG-13
-R
+- TV-MA
+- TV-14
+- TV-PG
+- PG-13
+- R
 for both Movies and TV Shows.
 
 7. Top Directors
@@ -148,13 +142,13 @@ Explores the relationship between content ratings and major producing countries 
 The project includes several interactive visualizations created using Plotly.
 These include:
 
-Pie Charts
-Bar Charts
-Horizontal Bar Charts
-Line Charts
-Histograms
-Stacked Bar Charts
-Heatmaps
+- Pie Charts
+- Bar Charts
+- Horizontal Bar Charts
+- Line Charts
+- Histograms
+- Stacked Bar Charts
+- Heatmaps
 Each visualization includes proper titles, axis labels, legends, and interpretations.
 
 
@@ -162,43 +156,43 @@ Each visualization includes proper titles, axis labels, legends, and interpretat
 
 Some important observations obtained from the analysis include:
 
-Netflix hosts significantly more Movies than TV Shows.
-The number of titles added to Netflix increased rapidly between 2016 and 2020.
-Most movies have a runtime close to 100 minutes.
-One-season TV Shows dominate Netflix's television catalog.
-The United States contributes the largest amount of Netflix content, followed by India.
-TV-MA is the most common content rating on the platform.
-A small number of directors account for a significant portion of available titles.
-Netflix consistently releases content throughout the year with relatively balanced monthly additions.
+- Netflix hosts significantly more Movies than TV Shows.
+- The number of titles added to Netflix increased rapidly between 2016 and 2020.
+- Most movies have a runtime close to 100 minutes.
+- One-season TV Shows dominate Netflix's television catalog.
+- The United States contributes the largest amount of Netflix content, followed by India.
+- TV-MA is the most common content rating on the platform.
+- A small number of directors account for a significant portion of available titles.
+- Netflix consistently releases content throughout the year with relatively balanced monthly additions.
 
 
 💡 Business Recommendations
 
 Based on the findings, the following recommendations can be made:
 
-Continue investing in regions with growing content production such as India and South Korea.
-Expand multi-season television content to improve long-term user engagement.
-Increase family-friendly programming to reach wider audiences.
-Strengthen partnerships with highly productive directors and creators.
-Continue maintaining a balanced content release schedule throughout the year.
-Invest further in international productions to diversify Netflix's catalog.
+- Continue investing in regions with growing content production such as India and South Korea.
+- Expand multi-season television content to improve long-term user engagement.
+- Increase family-friendly programming to reach wider audiences.
+- Strengthen partnerships with highly productive directors and creators.
+- Continue maintaining a balanced content release schedule throughout the year.
+- Invest further in international productions to diversify Netflix's catalog.
 
 
 ▶️ How to Run
 
-Clone this repository.
-Install the required Python libraries.
-Open the notebook using Google Colab or Jupyter Notebook.
-Ensure the dataset file is located in the project directory.
-Execute all notebook cells sequentially.
+- Clone this repository.
+- Install the required Python libraries.
+- Open the notebook using Google Colab or Jupyter Notebook.
+- Ensure the dataset file is located in the project directory.
+- Execute all notebook cells sequentially.
 
 
 📚 Python Libraries
-pandas
-numpy
-matplotlib
-seaborn
-plotly
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
 
 Install them using:
 
@@ -210,12 +204,12 @@ pip install pandas numpy matplotlib seaborn plotly
 
 Potential enhancements include:
 
-Sentiment analysis of content descriptions.
-Genre recommendation system.
-Interactive dashboard using Streamlit or Dash.
-Machine Learning-based popularity prediction.
-Time-series forecasting for future content additions.
-Geographic visualization of global content distribution.
+- Sentiment analysis of content descriptions.
+- Genre recommendation system.
+- Interactive dashboard using Streamlit or Dash.
+- Machine Learning-based popularity prediction.
+- Time-series forecasting for future content additions.
+- Geographic visualization of global content distribution.
 
 
 🎓 Internship Information
